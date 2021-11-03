@@ -4,4 +4,12 @@
 **RitwikN7/RitwikN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritwikn7/)
+## Hey there, I'm Ritwik
+
+### About Me
+- Currently a junior studying Computer Science and Economics at UW Madison.
+- Working as a Software Trainer at Software Training for Students @ UW Madison.
+- Learning more about Data Engineering, Data Science and Visualization.
+- Looking for internship opportunities for Summer, Winter and Fall 2022.
+
+
