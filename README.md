@@ -10,6 +10,6 @@
 - Currently a junior studying Computer Science and Economics at UW Madison.
 - Working as a Software Trainer at Software Training for Students @ UW Madison.
 - Learning more about Data Engineering, Data Science and Visualization.
-- Looking for internship opportunities for Summer, Winter and Fall 2022.
+- Looking for new grad and full-time roles in Data Engineering, Data Science and Software Engineering.
 
 
