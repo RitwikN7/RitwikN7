@@ -10,6 +10,6 @@
 - Working at Adobe as a Media and Data Science Research Intern - Summer 2022.
 - Currently a senior studying Computer Science and Economics at UW Madison. Graduating in December 2022.
 - Learning more about Data Engineering, Data Science and Visualization.
-- Looking for new grad and full-time roles in Data Engineering, Data Science and Software Engineering.
+- Looking for new grad and full-time roles in Data Science and Engineering and Software Engineering.
 
 
